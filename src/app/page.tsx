@@ -9,7 +9,6 @@ import SectionSliderNewCategories from "@/components/SectionSliderNewCategories"
 import SectionSliderNewCategories2 from "@/components/SectionSliderNewCategories2";
 import imageHero from "@/images/hero-2.jpeg";
 import imageKarting from "@/images/karting-3.jpg";
-// import imageClan from "@/images/clan.jpg";
 import imageEvent from "@/images/event.jpg";
 import imageSpace from "@/images/space.jpg";
 import imageDes from "@/images/disney.jpg";
@@ -110,9 +109,6 @@ function PageHome() {
       <SectionGridFeaturePlaces cardType="card2" />
 
      </div>
-
-
-
 
       <div className="container relative space-y-24 mb-24  lg:space-y-28 lg:mb-28">
         
